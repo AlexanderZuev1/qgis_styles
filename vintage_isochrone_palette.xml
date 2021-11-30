@@ -1,0 +1,126 @@
+<!DOCTYPE qgis_style>
+<qgis_style version="2">
+  <symbols/>
+  <colorramps>
+    <colorramp tags="Colorful,vintage" type="preset" name="Vintage_Isochrone">
+      <Option type="Map">
+        <Option type="QString" value="234,181,161,255" name="preset_color_0"/>
+        <Option type="QString" value="224,186,166,255" name="preset_color_1"/>
+        <Option type="QString" value="253,225,122,255" name="preset_color_10"/>
+        <Option type="QString" value="253,220,133,255" name="preset_color_11"/>
+        <Option type="QString" value="253,215,144,255" name="preset_color_12"/>
+        <Option type="QString" value="253,209,155,255" name="preset_color_13"/>
+        <Option type="QString" value="253,204,166,255" name="preset_color_14"/>
+        <Option type="QString" value="250,199,173,255" name="preset_color_15"/>
+        <Option type="QString" value="235,194,165,255" name="preset_color_16"/>
+        <Option type="QString" value="222,189,157,255" name="preset_color_17"/>
+        <Option type="QString" value="208,184,150,255" name="preset_color_18"/>
+        <Option type="QString" value="193,178,142,255" name="preset_color_19"/>
+        <Option type="QString" value="210,187,168,255" name="preset_color_2"/>
+        <Option type="QString" value="180,174,135,255" name="preset_color_20"/>
+        <Option type="QString" value="204,196,176,255" name="preset_color_3"/>
+        <Option type="QString" value="193,201,181,255" name="preset_color_4"/>
+        <Option type="QString" value="183,206,186,255" name="preset_color_5"/>
+        <Option type="QString" value="187,207,175,255" name="preset_color_6"/>
+        <Option type="QString" value="200,210,161,255" name="preset_color_7"/>
+        <Option type="QString" value="214,214,148,255" name="preset_color_8"/>
+        <Option type="QString" value="246,225,123,255" name="preset_color_9"/>
+        <Option type="QString" value="#fa4b3c" name="preset_color_name_0"/>
+        <Option type="QString" value="#e0baa6" name="preset_color_name_1"/>
+        <Option type="QString" value="#fde17a" name="preset_color_name_10"/>
+        <Option type="QString" value="#fddc85" name="preset_color_name_11"/>
+        <Option type="QString" value="#fdd790" name="preset_color_name_12"/>
+        <Option type="QString" value="#fdd19b" name="preset_color_name_13"/>
+        <Option type="QString" value="#fdcca6" name="preset_color_name_14"/>
+        <Option type="QString" value="#fac7ad" name="preset_color_name_15"/>
+        <Option type="QString" value="#ebc2a5" name="preset_color_name_16"/>
+        <Option type="QString" value="#debd9d" name="preset_color_name_17"/>
+        <Option type="QString" value="#d0b896" name="preset_color_name_18"/>
+        <Option type="QString" value="#c1b28e" name="preset_color_name_19"/>
+        <Option type="QString" value="#d2bba8" name="preset_color_name_2"/>
+        <Option type="QString" value="#b4ae87" name="preset_color_name_20"/>
+        <Option type="QString" value="#ccc4b0" name="preset_color_name_3"/>
+        <Option type="QString" value="#c1c9b5" name="preset_color_name_4"/>
+        <Option type="QString" value="#b7ceba" name="preset_color_name_5"/>
+        <Option type="QString" value="#e2dbb7" name="preset_color_name_6"/>
+        <Option type="QString" value="#c8d2a1" name="preset_color_name_7"/>
+        <Option type="QString" value="#d6d694" name="preset_color_name_8"/>
+        <Option type="QString" value="#f6e17b" name="preset_color_name_9"/>
+        <Option type="QString" value="preset" name="rampType"/>
+      </Option>
+      <prop v="234,181,161,255" k="preset_color_0"/>
+      <prop v="224,186,166,255" k="preset_color_1"/>
+      <prop v="253,225,122,255" k="preset_color_10"/>
+      <prop v="253,220,133,255" k="preset_color_11"/>
+      <prop v="253,215,144,255" k="preset_color_12"/>
+      <prop v="253,209,155,255" k="preset_color_13"/>
+      <prop v="253,204,166,255" k="preset_color_14"/>
+      <prop v="250,199,173,255" k="preset_color_15"/>
+      <prop v="235,194,165,255" k="preset_color_16"/>
+      <prop v="222,189,157,255" k="preset_color_17"/>
+      <prop v="208,184,150,255" k="preset_color_18"/>
+      <prop v="193,178,142,255" k="preset_color_19"/>
+      <prop v="210,187,168,255" k="preset_color_2"/>
+      <prop v="180,174,135,255" k="preset_color_20"/>
+      <prop v="204,196,176,255" k="preset_color_3"/>
+      <prop v="193,201,181,255" k="preset_color_4"/>
+      <prop v="183,206,186,255" k="preset_color_5"/>
+      <prop v="187,207,175,255" k="preset_color_6"/>
+      <prop v="200,210,161,255" k="preset_color_7"/>
+      <prop v="214,214,148,255" k="preset_color_8"/>
+      <prop v="246,225,123,255" k="preset_color_9"/>
+      <prop v="#fa4b3c" k="preset_color_name_0"/>
+      <prop v="#e0baa6" k="preset_color_name_1"/>
+      <prop v="#fde17a" k="preset_color_name_10"/>
+      <prop v="#fddc85" k="preset_color_name_11"/>
+      <prop v="#fdd790" k="preset_color_name_12"/>
+      <prop v="#fdd19b" k="preset_color_name_13"/>
+      <prop v="#fdcca6" k="preset_color_name_14"/>
+      <prop v="#fac7ad" k="preset_color_name_15"/>
+      <prop v="#ebc2a5" k="preset_color_name_16"/>
+      <prop v="#debd9d" k="preset_color_name_17"/>
+      <prop v="#d0b896" k="preset_color_name_18"/>
+      <prop v="#c1b28e" k="preset_color_name_19"/>
+      <prop v="#d2bba8" k="preset_color_name_2"/>
+      <prop v="#b4ae87" k="preset_color_name_20"/>
+      <prop v="#ccc4b0" k="preset_color_name_3"/>
+      <prop v="#c1c9b5" k="preset_color_name_4"/>
+      <prop v="#b7ceba" k="preset_color_name_5"/>
+      <prop v="#e2dbb7" k="preset_color_name_6"/>
+      <prop v="#c8d2a1" k="preset_color_name_7"/>
+      <prop v="#d6d694" k="preset_color_name_8"/>
+      <prop v="#f6e17b" k="preset_color_name_9"/>
+      <prop v="preset" k="rampType"/>
+    </colorramp>
+    <colorramp tags="Colorful,vintage" type="preset" name="vintage_isochrone_palette_2">
+      <Option type="Map">
+        <Option type="QString" value="217,130,129,255" name="preset_color_0"/>
+        <Option type="QString" value="244,192,180,255" name="preset_color_1"/>
+        <Option type="QString" value="226,207,144,255" name="preset_color_2"/>
+        <Option type="QString" value="209,217,165,255" name="preset_color_3"/>
+        <Option type="QString" value="164,203,176,255" name="preset_color_4"/>
+        <Option type="QString" value="#d98281" name="preset_color_name_0"/>
+        <Option type="QString" value="#f4c0b4" name="preset_color_name_1"/>
+        <Option type="QString" value="#e2cf90" name="preset_color_name_2"/>
+        <Option type="QString" value="#d1d9a5" name="preset_color_name_3"/>
+        <Option type="QString" value="#a4cbb0" name="preset_color_name_4"/>
+        <Option type="QString" value="preset" name="rampType"/>
+      </Option>
+      <prop v="217,130,129,255" k="preset_color_0"/>
+      <prop v="244,192,180,255" k="preset_color_1"/>
+      <prop v="226,207,144,255" k="preset_color_2"/>
+      <prop v="209,217,165,255" k="preset_color_3"/>
+      <prop v="164,203,176,255" k="preset_color_4"/>
+      <prop v="#d98281" k="preset_color_name_0"/>
+      <prop v="#f4c0b4" k="preset_color_name_1"/>
+      <prop v="#e2cf90" k="preset_color_name_2"/>
+      <prop v="#d1d9a5" k="preset_color_name_3"/>
+      <prop v="#a4cbb0" k="preset_color_name_4"/>
+      <prop v="preset" k="rampType"/>
+    </colorramp>
+  </colorramps>
+  <textformats/>
+  <labelsettings/>
+  <legendpatchshapes/>
+  <symbols3d/>
+</qgis_style>
